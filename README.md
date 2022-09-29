@@ -1,3 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=owojcikiewicz&theme=dark&show_icons=true" />
-</a>
+## 👋 Hi, I'm Oskar
+I'm a 19-year-old Backend Developer from Poland. 
+
+I work at [@saturdaysh](https://saturdaysheroes.dev) and [@desmart](https://desmart.com).
