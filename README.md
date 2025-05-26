@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Oskar 
 I'm a 21-year-old Software Engineer from Poland. Passionate about startups, longevity and solving complex problems. 
+- 🫀 Co-Founder @ [slimtwin](https://tryslimtwin.com)
 - 💼 Founder @ [SaturdaysHeroes](https://saturdaysheroes.dev)
-- 👨‍💻 Software Engineer @ [Magma Math](https://magmamath.com)
 - 🎓 Fellow @ [MD Fellowship](https://mdfellows.com)
 
 ## 💬 Get in touch 
