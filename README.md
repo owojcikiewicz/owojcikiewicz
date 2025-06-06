@@ -2,6 +2,7 @@
 I'm a 21-year-old Software Engineer from Poland. Passionate about startups, longevity and solving complex problems. 
 - 🫀 Co-Founder @ [slimtwin](https://tryslimtwin.com)
 - 💼 Founder @ [SaturdaysHeroes](https://saturdaysheroes.dev)
+- 👨‍💻 Software Engineer @ [Fanscout](https://fanscout.pro)
 - 🎓 Fellow @ [MD Fellowship](https://mdfellows.com)
 
 ## 💬 Get in touch 
